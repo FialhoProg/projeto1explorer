@@ -1,0 +1,61 @@
+#header_text img {
+  width: 348px;
+}
+
+#header_text {
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-family: inter;
+  font-size: 49px;
+  font-weight: 400;
+}
+
+#header_text p {
+  color: #7d7987;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 400px;
+}
+/*Destacando trechos do texto*/
+strong {
+  color: #f90;
+  font-weight: 700;
+}
+
+b {
+  color: #7d7987;
+  font-weight: 700;
+}
+
+span {
+  color: #f90;
+  font-weight: 400;
+}
+
+footer {
+  margin-top: 72px;
+  text-align: center;
+}
+
+hr {
+  width: 568px;
+  height: 0.1px;
+}
+
+a {
+  color: #f90;
+  text-align: center;
+  font-family: Open Sans;
+  padding: 40px;
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+}
+
+#balls {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
